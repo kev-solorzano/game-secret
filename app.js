@@ -74,6 +74,3 @@ function reiniciarJuego() {
 }
 
 condicionesIniciales();
-
-
-let lenguagesProgram = ['JavaScript', 'C', 'C++', 'Kotlin' y 'Python']
